@@ -11,17 +11,12 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.jerome</groupId>
-    <artifactId>springlession</artifactId>
+    <artifactId>springlession02</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springlession01</name>
-    <description>Demo project for Spring Boot</description>
+    <name>springlession02</name>
+    <description>Demo project for Spring Boot lession 02</description>
 
     <packaging>jar</packaging>
-
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
 
     <build>
         <plugins>

@@ -10,17 +10,23 @@
     <description>Demo project for Spring Boot</description>
     <packaging>pom</packaging>
 
-    <modules>
-        <module>springlession01</module>
-        <module>springlession02</module>
-    </modules>
-
-	<parent>
+    <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.1.8.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+    <modules>
+        <module>springlession02</module>
+        <module>springlession03</module>
+    </modules>
+
+    <properties>
+        <java.version>1.8</java.version>
+        <mybatis.version>1.3.1</mybatis.version>
+        <mysql.version>8.0.16</mysql.version>
+    </properties>
 
     <dependencies>
         <dependency>
