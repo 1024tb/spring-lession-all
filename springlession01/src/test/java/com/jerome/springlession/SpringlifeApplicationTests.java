@@ -1,4 +1,4 @@
-package com.jerome.springlife;
+package com.jerome.springlession;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
