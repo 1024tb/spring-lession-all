@@ -11,9 +11,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>springlession02</artifactId>
+    <artifactId>spring-boot-config</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springlession02</name>
+    <name>spring-boot-config</name>
     <description>Demo project for Spring Boot lession 02</description>
 
     <packaging>jar</packaging>
