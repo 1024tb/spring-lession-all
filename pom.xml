@@ -18,8 +18,8 @@
     </parent>
 
     <modules>
-        <module>springlession02</module>
-        <module>springlession03</module>
+        <module>spring-boot-config</module>
+        <module>spring-boot-mybatis</module>
     </modules>
 
     <properties>
