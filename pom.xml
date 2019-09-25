@@ -12,6 +12,7 @@
 
 	<modules>
 		<module>springlession01</module>
+		<module>springlession02</module>
 	</modules>
 
 </project>
